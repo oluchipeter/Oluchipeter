@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-My name is Umeh Oluchi Peter, a graduate of computer science and a graphic designer who is so passionate about creativity.
+My name is Umeh Oluchi Peter, a graduate of computer science and a graphic designer who is so passionate about creativity. So to be a Data Analyst.
 
 - 🔭 I’m currently working on becoming a professional Data Analyst, and I believe that I will do great and come out excellently.
 - 🌱 I’m currently learning Excel, Power BI, SQL, etc. 
-- 👯 I’m looking to collaborate with great minds to add value to Tech Industry
+- 👯 I’m looking to collaborate with great minds to add value to Tech Industry 
+- I'm looking forward to working with companies as an entry-level.
 - 💬 Ask me anything about graphic design or data analysis, and I will be willing to help. 
 - 📫 How to reach me: click👉( https://www.facebook.com/preshprintcreativedesign?mibextid=ZbWKwL)
 - 😄 She
-- ⚡ Fun fact: I love going for adventures, Dancing, hiking, listening to music, and sightseeing. My favorite is nature because it is beautiful😃
+- ⚡ Fun fact: I love going for adventures, collecting data, creating designs, Dancing, hiking, listening to music, and sightseeing. My favorite is nature because it is beautiful😃
 
 ### Skills
 
